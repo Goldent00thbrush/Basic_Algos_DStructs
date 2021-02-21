@@ -9,3 +9,6 @@
     k = h.hash(g);
     h.add(k,g);
     h.traverse();
+
+## Beware
+the hash function needs to change for strings and characters 
